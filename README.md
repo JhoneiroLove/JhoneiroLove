@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jhoneiro
 ================================================================================================================================
 
-Backend developer and systems engineering student
+Backend developer
 -------------------------------------------------
 
 I am a systems engineering student with a proactive approach to software development. Currently, I am immersed in university projects while looking for opportunities to collaborate on various programming projects and expand my knowledge. My interests span backend, frontend, blockchain, and cybersecurity programming fundamentals. I am training in Java, Git, Linux, SQL, Ethical Hacking, APIs and Spring Boot, and possess advanced knowledge in Java, Linux and relational databases such as Oracle and MySQL. I am open to discuss topics related to Java programming and databases, and I also have communication skills in the Linux environment.
